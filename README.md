@@ -1,16 +1,31 @@
-# blinkit_series
+# Blinkit Flutter UI Clone
 
-A new Flutter project.
+A Flutter UI clone of the Blinkit grocery delivery app created as my first hands-on Flutter project.
+
+## About the Project
+After learning Dart and understanding Flutter fundamentals from official documentation, I built this project to practice real-world UI development.  
+Instead of blindly copying, I implemented every screen myself while following a reference video for guidance.
+
+Although the reference video was 2.5 hours long, it took me around 12–14 hours because I focused on understanding each widget and layout.
+
+## Screens Implemented
+- Splash Screen
+- Login Screen
+- Home Screen
+- Category Screen
+- Cart Screen
+- Print Store (custom feature)
+
+## Tech Stack
+- Flutter
+- Dart
+
+## Future Improvements
+- State management (Provider)
+- Working cart logic
+- Authentication flow
+- Backend integration
 
 ## Getting Started
+Clone the repository and run:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
