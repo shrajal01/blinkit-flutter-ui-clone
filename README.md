@@ -16,6 +16,17 @@ Although the reference video was 2.5 hours long, it took me around 12–14 hours
 - Cart Screen
 - Print Store (custom feature)
 
+## App Preview
+
+| Splash | Login | Home |
+|------|------|------|
+| ![](assets/screenshots/splash.png) | ![](assets/screenshots/login.png) | ![](assets/screenshots/home.png) |
+
+| Category | Cart | Print Store |
+|------|------|------|
+| ![](assets/screenshots/category.png) | ![](assets/screenshots/cart.png) | ![](assets/screenshots/print.png) |
+
+
 ## Tech Stack
 - Flutter
 - Dart
@@ -27,5 +38,11 @@ Although the reference video was 2.5 hours long, it took me around 12–14 hours
 - Backend integration
 
 ## Getting Started
-Clone the repository and run:
+Clone the repository and run
+
+## Author
+
+**Shrajal**  
+[GitHub](https://github.com/shrajal01)
+
 
